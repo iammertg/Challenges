@@ -11,6 +11,3 @@ for(let i = 0; i < words.length ; i++ ){
   return words.join(" ");
          
 }
-   
-// keep this function call here 
-LetterCapitalize(readline());
